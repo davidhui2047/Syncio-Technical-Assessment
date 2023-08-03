@@ -53,3 +53,5 @@ The load balancer should assign one query to one database instance.
 
 This approach will make the whole product update comparison process x time fast which is 5 in the above example.
 
+The mentioned Database Replication and Clusters is a capability available within Amazon Aurora class of DB's. For more information, visit [https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.html]
+
