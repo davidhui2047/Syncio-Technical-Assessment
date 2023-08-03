@@ -1,23 +1,23 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+/payload-comparison-app/vendor/
+/payload-comparison-appnode_modules/
+/payload-comparison-appnpm-debug.log
+/payload-comparison-appyarn-error.log
 
 # Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+/payload-comparison-appbootstrap/compiled.php
+/payload-comparison-appapp/storage/
 
 # Laravel 5 & Lumen specific
-public/storage
-public/hot
+/payload-comparison-apppublic/storage
+/payload-comparison-apppublic/hot
 
 # Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
+/payload-comparison-apppublic_html/storage
+/payload-comparison-apppublic_html/hot
 
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
+/payload-comparison-appstorage/*.key
+/payload-comparison-app.env
+/payload-comparison-appHomestead.yaml
+/payload-comparison-appHomestead.json
+/payload-comparison-app/.vagrant
+/payload-comparison-app.phpunit.result.cache
